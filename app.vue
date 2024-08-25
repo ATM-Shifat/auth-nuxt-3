@@ -1,0 +1,3 @@
+<template class="text-3xl font-bold underline">
+  Hello world!
+</template>
