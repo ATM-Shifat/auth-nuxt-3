@@ -10,8 +10,12 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@pinia/nuxt": "^0.5.4",
+    "@vueuse/core": "^11.0.3",
     "nuxt": "^3.13.0",
-    "vue": "latest"
+    "pinia": "^2.2.2",
+    "vue": "latest",
+    "vuetify": "^3.7.0-beta.1"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
